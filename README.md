@@ -1,10 +1,4 @@
----
-tags:
-- generated_from_trainer
-model-index:
-- name: distilroberta-finetuned-bloomberg-classifier
-  results: []
----
+
 
 <!-- This model card has been generated automatically according to the information the Trainer had access to. You
 should probably proofread and complete it, then remove this comment. -->
