@@ -7,7 +7,7 @@ should probably proofread and complete it, then remove this comment. -->
 
 ## Model description
 
-DistilRoberta base finetuned on Bloomberg financial articles
+DistilRoberta base finetuned on Bloomberg financial articles, more on https://huggingface.co/oli1728/distilroberta-finetuned-bloomberg-classifier
 
 ## Intended uses & limitations
 
