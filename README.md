@@ -5,23 +5,17 @@ should probably proofread and complete it, then remove this comment. -->
 
 # distilroberta-finetuned-bloomberg-classifier
 
-This model was trained from scratch on the None dataset.
-It achieves the following results on the evaluation set:
-- Loss: 0.2983
-
 ## Model description
 
-More information needed
+DistilRoberta base finetuned on Bloomberg financial articles
 
 ## Intended uses & limitations
 
-More information needed
+Intended for analysis of press releases and financial news relating to market sentiment. Not intended for everyday speech.
 
 ## Training and evaluation data
 
-More information needed
-
-## Training procedure
+Finetuned on ~12,500 Bloomberg financial articles
 
 ### Training hyperparameters
 
